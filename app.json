@@ -7,18 +7,18 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "256761396309.",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~czN3CZ5Z#xiTt0hr3_7xteJpRV6z38Fzv-aiKC2_c3ep_p8JJqjY.",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "Put "https://github.com/Babyfx/PRABATHMD.",
       "required": true
     }   
 },
